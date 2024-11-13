@@ -18,6 +18,11 @@ Se han desarrollado **test unitarios** para todos los ficheros y un test **e2e**
 3. Seleccionar dispositivo (ya sea emulador de android o dispositivo físico conectado al equipo)
 4. Ejecutar la aplicación.
 
+## Tests
+
+1. Para ejecutar los **test unitarios**, escribir en la terminal: **flutter test**
+2. Para ejectura el **test e2e**, escribir en la terminal: **flutter test integration_test/get_weather_flow_test.dart**
+
 ## Dispositivos donde se ha probado la aplicación
 
 1. En un emulador de android (Pixel 9 API 35) creado mediante la aplicación de android studio.
