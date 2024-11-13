@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/95a9ba26-2a2e-439c-a313-a0626108adba" height="50"/> Weather App 
 
-<img src="https://github.com/user-attachments/assets/81cb5259-e4e2-412f-a2e0-1cc48c9a7c18" height="500"/><img src="https://github.com/user-attachments/assets/7bfdaee0-a8f5-43bf-8c36-7f3a6cb2d45c" height="500"/><img src="https://github.com/user-attachments/assets/dedb7ce9-1104-4007-b040-9ea481eb9bb4" height="500"/><img src="https://github.com/user-attachments/assets/f2c70ad6-6433-472c-a27f-0bc08ddae32e" height="500"/>
+<img src="https://github.com/user-attachments/assets/81cb5259-e4e2-412f-a2e0-1cc48c9a7c18" height="450"/><img src="https://github.com/user-attachments/assets/7bfdaee0-a8f5-43bf-8c36-7f3a6cb2d45c" height="450"/><img src="https://github.com/user-attachments/assets/dedb7ce9-1104-4007-b040-9ea481eb9bb4" height="450"/><img src="https://github.com/user-attachments/assets/f2c70ad6-6433-472c-a27f-0bc08ddae32e" height="450"/>
 
 Pequeña aplicación del tiempo desarrollada con **Flutter** donde, a partir de un campo de entrada en el que se introduce el nombre de una ciudad, podemos obtener la información meteorológica de ese lugar. Desarrollada como prueba para la empresa **Bondy**.
 La **API** que se ha utilizado para obtener la información del tiempo es https://wttr.in/
