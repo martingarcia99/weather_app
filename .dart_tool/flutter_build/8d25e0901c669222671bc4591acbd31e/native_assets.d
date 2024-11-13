@@ -1,0 +1,1 @@
+ C:\\Users\\marti\\Desktop\\bondy_test\\bondy_test\\.dart_tool\\flutter_build\\8d25e0901c669222671bc4591acbd31e\\native_assets.yaml: 
