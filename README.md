@@ -13,7 +13,7 @@ Se han desarrollado **test unitarios** para todos los ficheros y un test **e2e**
 
 ## Preparación y ejecución
 
-1. Clonar el contenido de la rama main en su dispositivo local.
+1. Clonar el contenido de la rama master en su dispositivo local.
 2. Ejecutar en la terminal: **flutter pub get**
 3. Seleccionar dispositivo (ya sea emulador de android o dispositivo físico conectado al equipo)
 4. Ejecutar la aplicación.
