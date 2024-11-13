@@ -5,6 +5,7 @@
 
 Pequeña aplicación del tiempo desarrollada con **Flutter** donde, a partir de un campo de entrada en el que se introduce el nombre de una ciudad, podemos obtener la información meteorológica de ese lugar. Desarrollada como prueba para la empresa **Bondy**.
 La **API** que se ha utilizado para obtener la información del tiempo es https://wttr.in/
+Esta aplicación esta diseñada para utilizarla **sólo en dispositivos móviles**.
 
 ## Contenido de la aplicación
 
@@ -32,6 +33,8 @@ Se han desarrollado **test unitarios** para todos los ficheros y un test **e2e**
 
 ## NOTAS
 Se ha utilizado la API de https://wttr.in/, porque es de las pocas que no necesitan un **API KEY**. Se ha tomado esta decisión ya que así se puede lanzar la aplicación mucho más rapido sin tener que realizar registros previos en las páginas de las APIs para poder obtener la KEY y asi acelerar el proceso. En otra casuística, se hubiera utilizado la **API Openweathermap** ya que nos devuelve mucha más información detallada.
+
+Tampoco se ha podido probar la aplicación en **ios** ya que para ello hace falta un MAC.
 
 
 
