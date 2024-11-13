@@ -1,19 +1,20 @@
-# Weather App
+# <img src="https://github.com/user-attachments/assets/95a9ba26-2a2e-439c-a313-a0626108adba" height="50"/> Weather App 
 
-![image](https://github.com/user-attachments/assets/dedb7ce9-1104-4007-b040-9ea481eb9bb4) ![image](https://github.com/user-attachments/assets/f2c70ad6-6433-472c-a27f-0bc08ddae32e)
 
-Pequeña aplicación del tiempo desarrollada con Flutter donde, a partir de un campo de entrada en el que se introduce el nombre de una ciudad, podemos obtener la información meteorológica de ese lugar. Desarrollada como prueba para la empresa Bondy.
-La API que se ha utilizado para obtener la información del tiempo es https://wttr.in/
+![image](https://github.com/user-attachments/assets/dedb7ce9-1104-4007-b040-9ea481eb9bb4)   ![image](https://github.com/user-attachments/assets/f2c70ad6-6433-472c-a27f-0bc08ddae32e)
+
+Pequeña aplicación del tiempo desarrollada con **Flutter** donde, a partir de un campo de entrada en el que se introduce el nombre de una ciudad, podemos obtener la información meteorológica de ese lugar. Desarrollada como prueba para la empresa **Bondy**.
+La **API** que se ha utilizado para obtener la información del tiempo es https://wttr.in/
 
 ## Contenido de la aplicación
 
-En la carpeta lib se pueden encontrar todos los directorios implementados de manera bien estructurada y sencilla para cualquier persona que no ha desarrollado el proyecto.
-Se han desarrollado test unitarios para todos los ficheros y un test e2e para comprobar el flujo y funcionalidad principal de la aplicación.
+En la carpeta **lib** se pueden encontrar todos los directorios implementados de manera bien **estructurada** y **sencilla** para cualquier persona que no ha desarrollado el proyecto.
+Se han desarrollado **test unitarios** para todos los ficheros y un test **e2e** para comprobar el flujo y funcionalidad principal de la aplicación.
 
 ## Preparación y ejecución
 
 1. Clonar el contenido de la rama main en su dispositivo local.
-2. Ejecutar en la terminal: flutter pub get
+2. Ejecutar en la terminal: **flutter pub get**
 3. Seleccionar dispositivo (ya sea emulador de android o dispositivo físico conectado al equipo)
 4. Ejecutar la aplicación.
 
@@ -30,7 +31,7 @@ Se han desarrollado test unitarios para todos los ficheros y un test e2e para co
 3. Creación de más vistas como por ejemplo, una vista para ver las ciudades que ya hemos buscado y tenerlas almacenadas.
 
 ## NOTAS
-Se ha utilizado la API de https://wttr.in/, porque es de las pocas que no necesitan un API KEY. Se ha tomado esta decisión ya que así se puede lanzar la aplicación mucho más rapido sin tener que realizar registros previos en las páginas de las APIs para poder obtener la KEY y asi acelerar el proceso. En otra casuística, se hubiera utilizado la API Openweathermap ya que nos devuelve mucha más información detallada.
+Se ha utilizado la API de https://wttr.in/, porque es de las pocas que no necesitan un **API KEY**. Se ha tomado esta decisión ya que así se puede lanzar la aplicación mucho más rapido sin tener que realizar registros previos en las páginas de las APIs para poder obtener la KEY y asi acelerar el proceso. En otra casuística, se hubiera utilizado la **API Openweathermap** ya que nos devuelve mucha más información detallada.
 
 
 
